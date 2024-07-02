@@ -6,8 +6,8 @@
     --grid-size: 15;
     /* Start with 4x4 */
     display: grid;
-    width: 50rem;
-    height: 50rem;
+    width: calc(100vh - 300px);
+    height: calc(100vh - 300px);
     grid-template: repeat(var(--grid-size), 1fr) / repeat(var(--grid-size), 1fr);
 }
 
