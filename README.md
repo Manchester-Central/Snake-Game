@@ -14,6 +14,7 @@ Track your progress with the project by updating the checkmarks down below
   - [ ] Git: [Install](https://git-scm.com/downloads)
   - [ ] VS Code: [Install](https://code.visualstudio.com/download)
   - [ ] Node.js: [Install](https://nodejs.org/en/)
+- [ ] In a terminal, clone the project to your computer: `git clone [HTTPS or SSH Link to your repo]`
 - [ ] Install node packages `npm install` in a command line window
 - [ ] Start the server locally: `npm run dev`
 - [ ] Browser to the local server: [http://localhost:3000/](http://localhost:3000/)
